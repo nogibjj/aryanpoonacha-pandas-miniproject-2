@@ -14,4 +14,4 @@ uvicorn==0.18.3
 #general
 matplotlib
 numpy
-
+pandas
