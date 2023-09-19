@@ -5,6 +5,10 @@ install:
 test:
 	python -m pytest -vv --cov=main --cov=mylib test_*.py
 
+# Run your script (replace 'your_script_name.py' with the actual script name)
+run:
+	./env/bin/python3 describe_stats.py
+
 format:	
 	black *.py 
 
