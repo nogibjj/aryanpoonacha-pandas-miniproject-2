@@ -19,7 +19,7 @@ def describe(filepath):
     plt.show()
 
 def main():
-    describe("data/cars.csv")
+    describe("tables/cars.csv")
 
 if __name__ == "__main__":
     main()
