@@ -1,5 +1,7 @@
 [![CI](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml)
 
+Miniproject 2: Summary statistics and visualization using pandas and matplotlib.
+
 Based on the python ruff template provided. Created for IDS 706, Fall 2023.
 
 1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
