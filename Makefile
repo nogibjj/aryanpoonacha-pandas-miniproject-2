@@ -19,12 +19,12 @@ container-lint:
 
 refactor: format lint
 
-# Run your script (replace 'your_script_name.py' with the actual script name)
+# python -m xxx (no .py)
 run:
-	python -m describe_stats.py
+	python -m describe_stats
 
+# python -m xxx (no .py)
 deploy:
-	#deploy goes here
-	python -m describe_stats.py
+	python -m describe_stats
 		
 all: install lint test format deploy
