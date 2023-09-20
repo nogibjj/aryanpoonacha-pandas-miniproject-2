@@ -15,3 +15,7 @@ uvicorn==0.18.3
 matplotlib
 numpy
 pandas
+
+#pdfs
+tabulate
+fpdf
